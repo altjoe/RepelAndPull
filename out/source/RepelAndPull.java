@@ -36,7 +36,7 @@ public void draw() {
         ver.move();
         ver.display();
     }
-    // record.control();
+    record.control();
 }
 
 class Force {
